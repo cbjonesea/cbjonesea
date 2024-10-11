@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Chels 👋
+---------------------------------------------
+I'm a data analyst and aspiring data engineer.
 
-<!--
-**cbjonesea/cbjonesea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After leaving my home country in 2014 and making my way through Spain and Germany, I've finally settled in the Netherlands.
 
-Here are some ideas to get you started:
+## About Me
+--------------------------------------------
+I originally studied Natural Resource Management and worked for 5 years as a researcher on sustainability and climate change in both academica and non-profits. After being bitten by the coding bug shortly after finishing my M.Sc., I started diving more in depth into data science and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm now working on fully transitioning my career to data. Here you can see some of the projects I'm working on to build my skillset and show what I'm capable of.
+
+
