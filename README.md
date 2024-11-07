@@ -1,6 +1,8 @@
 # Hi, I'm Chels 👋
 I'm a data analyst and aspiring data engineer. 
 
+This is my portfolio of data projects I'm using to practice existing skills and teach my self new ones
+
 Some of my projects use fictional business cases as a basis to hone my data analysis skills and demonstrate them to employers.
 
 Some are my own explorations into data related to current events, news stories or political and environmental issues.
