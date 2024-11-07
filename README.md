@@ -16,13 +16,13 @@ After being bitten by the programming bug shortly after finishing my M.Sc., I st
 I'm now working on fully transitioning my career to data. Here you can see some of the projects I'm working on to build my skillset and show what I'm capable of.
 
 # Portfolio Guide
-I've made this guide to so others can easily navigate to different projects within my portfolio. 
+I've made this guide so others can easily navigate to different projects within my portfolio. 
 
 It also categorizes my projects based on subject area, data analysis processes undertaken and tools/libraries used. 
 
 I will regularly update this guide as I keep learning and working on projects.
 <br>
-| Project Link | Completed / Ongoing | Tools & Libraries | Subject Area | Data Analysis Processes | Description
+| Project Link | Completed / Ongoing | Tools & Libraries | Subject Area | Data Analysis Processes | Description |
 |---|---|---|---|---|---|
 | [Telcom Customer Churn]( https://github.com/cbjonesea/excel-kaggle-customerchurn)| Ongoing | Microsoft Excel | Sales & Customer behavior | Exploration, Transformation, Aggregation, Visualization |   |
 | [Best Advertising Markets for an E-Learning App](https://github.com/cbjonesea/python-advertising-marketselection) | Ongoing | Python (pandas, numpy, matplotlib, seaborn), Jupyter Lab |  Marketing |  |  |
