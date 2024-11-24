@@ -24,6 +24,7 @@ I will regularly update this guide as I keep learning and working on projects.
 <br>
 | Project Link | Completed / Ongoing | Tools & Libraries | Subject Area | Data Analysis Processes | Description |
 |---|---|---|---|---|---|
+| Northwind Traders Business Questions with SQL | Completed | PostgreSQL | Sales, customer behavior, inventory management | Exploration, Aggregation, Transformation | A SQL script answering business questions from the Northwind Traders database, a database of customer, order, product and employee data for a wholesale gourmet food company called Northwind Traders |
 | [Telcom Customer Churn]( https://github.com/cbjonesea/excel-kaggle-customerchurn)| Ongoing | Microsoft Excel | Sales & Customer behavior | Exploration, Transformation, Aggregation, Visualization | Excel report identifying factors that contribute to customer churn for a (ficitonal) telecom company  |
 | [Best Advertising Markets for an E-Learning App](https://github.com/cbjonesea/python-advertising-marketselection) | Ongoing | Python (pandas, numpy, matplotlib, seaborn), Jupyter Lab |  Marketing |  | Python data exploration to find the two best markets for advertising for a (fictional) e-learning platform |
 | [Company GHG Emissions Time Series Construction](https://github.com/cbjonesea/emissions-pathways) | Completed | Python (pandas, numpy, matplotlib, scipy) | Environment & Sustainability | Cleaning, Transformation, Aggregation, Forecasting, Visualization | Python script to construct emissions pathways based on company emissions data  |
