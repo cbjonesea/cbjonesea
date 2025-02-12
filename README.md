@@ -1,7 +1,6 @@
 # Hi, I'm Chels 👋
-### I'm a data analyst and aspiring data engineer. 
 
-### This is my portfolio of data projects I've done to practice existing skills and teach myself new ones.
+### This is my portfolio of data projects I've done to practice existing data science & analysis skills and teach myself new ones.
 
 # Background
 I originally studied Natural Resource Management and worked for 5 years as a researcher on sustainability and climate change in both academica and non-profits. <br>
