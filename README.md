@@ -3,9 +3,17 @@
 ### This is my portfolio of data projects I've done to practice existing data science & analysis skills and teach myself new ones.
 
 # Background
-I originally studied Natural Resource Management and worked for 5 years as a researcher on sustainability and climate change in both academica and non-profits. <br>
-I became interested in programming shortly after finishing my M.Sc. and started diving more into the use of tools such as Python and SQL for data analysis. <br>
-I'm now working on fully transitioning my career to data analysis and data engineering. Here you can see some of the projects I'm working on to build my skillset and show what I'm capable of.
+After a 5 year career in the sustainabiltiy & ESG domain, I am transitioning to a role in in data analytics & data science, geared towards a variety of industries. <br>
+<br>
+Here you can see some of the projects I'm working on to build my skillset in:
+- Data exploration / transformation
+- Data visualization
+- Building pipelines
+- Querying & maintaining databases
+Using:
+- Python
+- SQL
+- Power BI
 
 # Portfolio Guide
 I've made this guide so others can easily navigate to different projects within my portfolio. <br>
