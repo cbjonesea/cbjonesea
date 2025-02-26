@@ -1,15 +1,11 @@
 # Hi, I'm Chels 👋
-
-### This is my portfolio of data projects I've done to practice existing data science & analysis skills and teach myself new ones.
-
-# Background
 After a 5 year career in the sustainabiltiy & ESG domain, I am transitioning to a role in in data analytics & data science, geared towards a variety of industries. <br>
 <br>
 Here you can see some of the projects I'm working on to build my skillset in:
 - Data exploration / transformation
 - Data visualization
 - Building pipelines
-- Querying & maintaining databases
+- Querying & maintaining databases <br>
 Using:
 - Python
 - SQL
