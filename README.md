@@ -6,7 +6,6 @@ Here you can see some of the projects I'm working on to build my skillset in:
 - Data visualization
 - Building pipelines
 - Querying & maintaining databases
-<br>
 
 Using:
 - Python
