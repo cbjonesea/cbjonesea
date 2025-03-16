@@ -15,9 +15,6 @@ Using:
 - Excel
 
 # Portfolio Guide
-I've made this guide so others can easily navigate to different projects within my portfolio. <br>
-I will regularly update this guide as I keep learning and working on projects.
-<br>
 
 | Project Link |  Tools & Libraries | Subject Area |  Description | 
 |---|---|---|---|
