@@ -18,7 +18,7 @@ Using:
 
 | Project Link |  Tools & Libraries | Subject Area |  Description | 
 |---|---|---|---|
-| [Rental revenue prediction with machine learning](https://github.com/cbjonesea/ML-assignment) | Python (pandas, numpy, scikit-learn, seaborn) | Machine learning |  Predict the revenue of rental properties using feature selection and hyperparameter tuning for various machine learning models |
+| [Rental revenue prediction with machine learning](https://github.com/cbjonesea/ML-assignment) | Python (pandas, numpy, scikit-learn, seaborn) | Machine learning |  Predict the revenue of rental properties using feature selection and hyperparameter tuning for various machine learning models (in progress)|
 | [Northwind Traders inventory management with SQL](https://github.com/cbjonesea/NorthwindTraders_SQL) | PostgreSQL | Inventory & logistics| A SQL script exploring and aggregating inventory and order data for a wholesale gourmet food company |
 | [Best advertising markets for an e-learning app](https://github.com/cbjonesea/python-advertising-marketselection) | Python (pandas, numpy, matplotlib, seaborn), Jupyter Lab |  Marketing | Python data exploration and visualization to find the best advertising markets for an e-learning platform |
 | [Company GHG emissions time series construction](https://github.com/cbjonesea/emissions-pathways) | Python (pandas, numpy, matplotlib, scipy) | Sustainability / ESG | Python script to construct emissions pathways based on company emissions data  | 
