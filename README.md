@@ -16,11 +16,11 @@ Using:
 
 # Portfolio Guide
 
-| Project Link |  Tools & Libraries | Subject Area |  Description | 
-|---|---|---|---|
-| [Rental revenue prediction with machine learning](https://github.com/cbjonesea/ML-assignment) | Python (pandas, numpy, scikit-learn, seaborn) | Machine learning |  Predict the revenue of rental properties using feature selection and hyperparameter tuning for various machine learning models (in progress)|
-| [Northwind Traders inventory management with SQL](https://github.com/cbjonesea/NorthwindTraders_SQL) | PostgreSQL | Inventory & logistics| A SQL script exploring and aggregating inventory and order data for a wholesale gourmet food company |
-| [Best advertising markets for an e-learning app](https://github.com/cbjonesea/python-advertising-marketselection) | Python (pandas, numpy, matplotlib, seaborn), Jupyter Lab |  Marketing | Python data exploration and visualization to find the best advertising markets for an e-learning platform |
-| [Company GHG emissions time series construction](https://github.com/cbjonesea/emissions-pathways) | Python (pandas, numpy, matplotlib, scipy) | Sustainability / ESG | Python script to construct emissions pathways based on company emissions data  | 
-| [City GHG emissions factsheets](https://github.com/cbjonesea/cityemissions-clean-transform-combine/tree/main) | Python (pandas, numpy) | Sustainability / ESG | Python file that imports reported emissions data from cities and countries from a multitude of sources, cleans and collates all data into exportable Excel "factsheets" |
+| Project Link |  Tools & Libraries | Domain | Methods | Description | 
+|---|---|---|---|---|
+| [Predicting employee turnover with machine learning](https://github.com/cbjonesea/EmployeeTurnover) | Python (pandas, numpy, scikit-learn, seaborn) | HR Analytics | Supervised learning - classification | Predict and gain insights into employee turnover factors using decisiont trees and logistic regression |
+| [Rental revenue prediction with machine learning](https://github.com/cbjonesea/ML-assignment) | Python (pandas, numpy, scikit-learn, seaborn) | Real Estate | Supervised learning - regression | Predict the revenue of rental properties using feature selection and hyperparameter tuning for various machine learning models (in progress)|
+| [Northwind Traders inventory management with SQL](https://github.com/cbjonesea/NorthwindTraders_SQL) | PostgreSQL | Inventory & Logistics| Exploratory analysis | A SQL script exploring and aggregating inventory and order data for a wholesale gourmet food company |
+| [Best advertising markets for an e-learning app](https://github.com/cbjonesea/python-advertising-marketselection) | Python (pandas, numpy, matplotlib, seaborn), Jupyter Lab |  Marketing | Exploratory analysis | Python data exploration and visualization to find the best advertising markets for an e-learning platform |
+| [Company GHG emissions time series construction](https://github.com/cbjonesea/emissions-pathways) | Python (pandas, numpy, matplotlib, scipy) | Sustainability / ESG | Time sereis analysis | Python script to construct emissions pathways based on company emissions data  | 
 
