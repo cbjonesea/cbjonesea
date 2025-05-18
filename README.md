@@ -18,7 +18,7 @@ Using:
 
 | Project Link |  Tools & Libraries | Domain | Methods | Description | 
 |---|---|---|---|---|
-| [Predicting employee turnover with machine learning](https://github.com/cbjonesea/EmployeeTurnover) | Python (pandas, numpy, scikit-learn, seaborn) | HR Analytics | Supervised learning - classification | Predict and gain insights into employee turnover factors using decisiont trees and logistic regression (in progress) |
+| [Predicting employee turnover with machine learning](https://github.com/cbjonesea/EmployeeTurnover) | Python (pandas, numpy, scikit-learn, seaborn) | HR Analytics | Supervised learning - classification | Predict and gain insights into employee turnover factors using decision trees and logistic regression (in progress) |
 | [Rental revenue prediction with machine learning](https://github.com/cbjonesea/ML-assignment) | Python (pandas, numpy, scikit-learn, seaborn) | Real Estate | Supervised learning - regression | Predict the revenue of rental properties using feature selection and hyperparameter tuning for various machine learning models (in progress)|
 | [Northwind Traders inventory management with SQL](https://github.com/cbjonesea/NorthwindTraders_SQL) | PostgreSQL | Inventory & Logistics| Exploratory analysis | A SQL script exploring and aggregating inventory and order data for a wholesale gourmet food company |
 | [Best advertising markets for an e-learning app](https://github.com/cbjonesea/python-advertising-marketselection) | Python (pandas, numpy, matplotlib, seaborn), Jupyter Lab |  Marketing | Exploratory analysis | Python data exploration and visualization to find the best advertising markets for an e-learning platform |
