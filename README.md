@@ -5,6 +5,7 @@ Currently, I'm completing an M.Sc. in Data Science at Tilburg University. <br>
 Here you can see some of the projects I'm working on to build my skillset in:
 - Data exploration / transformation
 - Data visualization
+- Building & tuning machine learning models
 - Building pipelines
 - Querying & maintaining databases
 
